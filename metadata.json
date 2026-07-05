@@ -1,0 +1,6 @@
+{
+  "name": "Construction Site Manager",
+  "description": "An offline-first Android application for effective construction site labour management and material stock tracking, synced directly with Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
